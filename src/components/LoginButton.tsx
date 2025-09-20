@@ -1,0 +1,1 @@
+// Componente para el botón de inicio de sesión.
