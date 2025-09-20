@@ -86,3 +86,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Build output folders
+/dist_dev
+/dist_prod
